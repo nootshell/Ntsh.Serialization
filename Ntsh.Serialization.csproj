@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="meta/csproj/common.csproj" />
+	<Import Project="meta/csproj/nuget.csproj" />
+
+	<PropertyGroup>
+		<PackageId>Ntsh.Serialization</PackageId>
+		<Title>Ntsh.Serialization</Title>
+		<Description>Common serialization stuff.</Description>
+		<Version>0.0.2</Version>
+	</PropertyGroup>
+
+</Project>
