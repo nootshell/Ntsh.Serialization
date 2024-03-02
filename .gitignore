@@ -4,6 +4,7 @@
 
 # Whitelist repo files
 !.gitignore
+!.gitmodules
 !*.md
 
 # Whitelist source/project files
